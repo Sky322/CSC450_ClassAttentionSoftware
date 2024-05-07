@@ -1,14 +1,14 @@
 # CSC450_ClassAttentionSoftware
 Distributed Classroom Attention Software for education environments, CSC450_project
 
-#setup
+#setup  
 Requirements.txt has all the necessary libraries  
 
 .sql dump holds database (needs new user add "newuser" and "newpassword" with full permissions)  
 
 model.py needs your IP address  
-
-#run
+  
+#run  
 run login.py  
 login as admin (username: admin password: password)  
 start server  
