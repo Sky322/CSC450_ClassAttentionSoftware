@@ -9,8 +9,8 @@ Requirements.txt has all the necessary libraries
 model.py needs your IP address
 
 #run
-run login.py
-login as admin (username: admin password: password)
+run login.py\n
+login as admin (username: admin password: password)__
 start server
 create student account (any name any number)
 log in as student(select location enter same number from create student)
